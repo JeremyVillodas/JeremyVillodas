@@ -42,6 +42,10 @@
 <a href="mailto:relexyt30@gmail.com@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-
-
 </div>
+
+<br/>
+
+<h2>🎵 I'm currently listening: <h2/>
+
+[![My Spotify](https://repo-de-spoti-9m1l5doc5-relexs-projects.vercel.app)](https://github.com/regchiu/spotify-currently-playing-track)
