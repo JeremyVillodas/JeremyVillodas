@@ -48,4 +48,4 @@
 
 <h2>🎵 I'm currently listening: <h2/>
 
-[![My Spotify](https://repo-de-spoti-9m1l5doc5-relexs-projects.vercel.app)](https://github.com/regchiu/spotify-currently-playing-track)
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://repo-de-spoti-9m1l5doc5-relexs-projects.vercel.app)
