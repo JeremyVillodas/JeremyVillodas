@@ -6,8 +6,7 @@
 <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
 </p>
 
-# 📊 GitHub Stats:
-
+<h1 align=""> 📊 Stats </h1>
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeremyVillodas&theme=dark&hide_border=false)<br/>
@@ -18,7 +17,7 @@
 
 </div>
 
-
+<h1 align=""> 💻 Technologies </h1>
 
 <div align="center">
 
@@ -32,7 +31,7 @@
 
 <h3 align="left">Cloud</h3>
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-%2320232a?style=for-the-badge&logo=github&logoColor=white) 
 
 <h3 align="left">Database</h3>
 
