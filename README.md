@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with me</h3>
 
-<a href="mailto:relexyt30@gmail.com@gmail.com">
+<a href="mailto:relexyt30@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 </div>
